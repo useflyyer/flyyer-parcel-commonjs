@@ -1,0 +1,18 @@
+{
+  "name": "@flyyer/parcel-commonjs",
+  "description": "Workaround to support Parcel 2 with TypeScript in CommonJS targets",
+  "version": "0.0.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "sideEffects": false,
+  "author": "Patricio López Juri",
+  "repository": "useflyyer/flyyer-parcel-commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "@parcel/config-default": "^2.0.0-rc",
+    "@parcel/core": "^2.0.0-rc",
+    "@parcel/fs": "^2.0.0-rc",
+    "@parcel/source-map": "^2.0.0-rc",
+    "@parcel/types": "^2.0.0-rc"
+  }
+}
