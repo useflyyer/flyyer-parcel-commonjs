@@ -1,7 +1,7 @@
 {
   "name": "@flyyer/parcel-commonjs",
   "description": "Workaround to support Parcel 2 with TypeScript in CommonJS targets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "typings": "index.d.ts",
   "sideEffects": false,
