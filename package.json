@@ -9,10 +9,10 @@
   "repository": "useflyyer/flyyer-parcel-commonjs",
   "license": "MIT",
   "dependencies": {
-    "@parcel/config-default": "^2.0.0-rc",
-    "@parcel/core": "^2.0.0-rc",
-    "@parcel/fs": "^2.0.0-rc",
-    "@parcel/source-map": "^2.0.0-rc",
-    "@parcel/types": "^2.0.0-rc"
+    "@parcel/config-default": "^2.0.0",
+    "@parcel/core": "^2.0.0",
+    "@parcel/fs": "^2.0.0",
+    "@parcel/source-map": "^2.0.0",
+    "@parcel/types": "^2.0.0"
   }
 }
