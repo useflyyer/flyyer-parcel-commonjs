@@ -1,5 +1,5 @@
 import type { NodeFS, MemoryFS, OverlayFS } from "@parcel/fs";
-import type { Parcel, createWorkerFarm } from "@parcel/core";
+import type { default as Parcel, createWorkerFarm } from "@parcel/core";
 
 export type ParcelReImports = {
   Parcel: typeof Parcel,
